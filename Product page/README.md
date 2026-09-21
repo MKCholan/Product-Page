@@ -1,4 +1,4 @@
-# Scrimbafy Me! - Product Splash Page
+# Product Splash Page
 
 A responsive product splash page built as part of the Scrimba Fullstack Developer Path. This project is a promotional landing page for a fictional "Scrimbafy" avatar generation tool, featuring fluid typography, flexible layouts, and a responsive sign-up form.
 
